@@ -1,5 +1,5 @@
-# Digital Asset
-Token Mindfulness #MFN v1.0.0
+# Token Mindfulness #MFN v1.0.0
+Social Digital Asset
 
 Market Overview
 Max Total Supply = 18,446,744,073.70
