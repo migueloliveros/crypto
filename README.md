@@ -1,8 +1,17 @@
+# Token Solway_1843 #SLWY v1.1.0
+Digital Asset 
+
+Reward
+Max Total Supply = 1,300 SLWY
+
+Profile Summary
+Tohken name = Solway (SLWY)
+
 # Token Mindfulness #MFN v1.0.0
 Social Digital Asset
 
 Market Overview
-Max Total Supply = 18,446,744,073.70
+Max Total Supply = 18,446,744,073.70 MFN
 
 Profile Summary
 Token name = Mindfulness (MFN)
