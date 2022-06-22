@@ -5,7 +5,7 @@ Reward
 Max Total Supply = 1,300 SLWY
 
 Profile Summary
-Tohken name = Solway (SLWY)
+Token name = Solway (SLWY)
 
 # Token Mindfulness #MFN v1.0.0
 Social Digital Asset
