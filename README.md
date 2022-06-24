@@ -1,12 +1,3 @@
-# Token Solway_1843 #SLWY v1.1.0
-Digital Asset pegged to the 1843's GBP 
-
-Reward
-Max Total Supply = 1,300 SLWY
-
-Profile Summary
-Token name = Solway (SLWY)
-
 # Token Mindfulness #MFN v1.0.0
 Social Digital Asset
 
