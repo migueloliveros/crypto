@@ -1,0 +1,19 @@
+Microsoft Windows [Versión 10.0.19043.1766]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Usuario>ssh root@139.162.161.238
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+SHA256:iZF9kBXoXr+B3sCdmdw+kZr/ENtxqcH/LzGblwl8edQ.
+Please contact your system administrator.
+Add correct host key in C:\\Users\\Usuario/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in C:\\Users\\Usuario/.ssh/known_hosts:1
+ECDSA host key for 139.162.161.238 has changed and you have requested strict checking.
+Host key verification failed.
+
+C:\Users\Usuario>
