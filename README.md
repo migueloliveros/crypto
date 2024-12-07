@@ -1,3 +1,5 @@
+After FALSE feedback from previous token implementation abd the loss of funds, a new meme token is developed for educational purposes.
+
 # Token Mindfulness #MFN v1.0.0
 Social Digital Asset
 
